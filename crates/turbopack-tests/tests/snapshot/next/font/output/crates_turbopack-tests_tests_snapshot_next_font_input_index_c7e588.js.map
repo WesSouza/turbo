@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["/crates/turbopack-tests/tests/snapshot/next/font/input/index.js"],"sourcesContent":["import { Inter } from \"@next/font/google\";\nimport localFont from \"@next/font/local\";\n\nconst inter = Inter();\nconst myFont = localFont({ src: \"./my-font.woff2\" });\n"],"names":[],"mappings":"AAAA"}},
+    {"offset": {"line": 17, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}

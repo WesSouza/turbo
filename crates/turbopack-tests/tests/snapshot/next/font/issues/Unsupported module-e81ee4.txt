@@ -1,0 +1,11 @@
+PlainIssue {
+    severity: Warning,
+    context: "[project]/crates/turbopack-tests/tests/snapshot/next/font/input/index.js",
+    category: "resolve",
+    title: "Unsupported module",
+    description: "The package @next/font is not yet supported",
+    detail: "",
+    documentation_link: "",
+    source: None,
+    sub_issues: [],
+}

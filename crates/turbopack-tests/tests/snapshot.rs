@@ -159,6 +159,7 @@ async fn run_test(resource: String) -> Result<FileSystemPathVc> {
         env,
         ModuleOptionsContext {
             enable_emotion: true,
+            enable_next_font: true,
             enable_styled_components: true,
             preset_env_versions: Some(env),
             ..Default::default()

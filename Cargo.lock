@@ -2442,6 +2442,16 @@ dependencies = [
 ]
 
 [[package]]
+name = "next-font"
+version = "0.1.0"
+dependencies = [
+ "fxhash",
+ "serde",
+ "serde_json",
+ "swc_core 0.41.3",
+]
+
+[[package]]
 name = "nix"
 version = "0.25.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -5539,6 +5549,7 @@ dependencies = [
  "fxhash",
  "indexmap",
  "lazy_static",
+ "next-font",
  "num-bigint",
  "once_cell",
  "pin-project-lite",
