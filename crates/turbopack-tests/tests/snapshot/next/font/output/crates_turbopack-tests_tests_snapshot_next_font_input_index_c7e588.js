@@ -2,17 +2,6 @@
 
 "[project]/crates/turbopack-tests/tests/snapshot/next/font/input/index.js (ecmascript)": (({ r: __turbopack_require__, x: __turbopack_external_require__, i: __turbopack_import__, s: __turbopack_esm__, v: __turbopack_export_value__, c: __turbopack_cache__, l: __turbopack_load__, p: process, g: global, __dirname }) => (() => {
 
-(()=>{
-    const e = new Error('Cannot find module \'@next/font/google/target.css?{"path":"index.js","import":"Inter","arguments":[],"variableName":"inter"}\'');
-    e.code = 'MODULE_NOT_FOUND';
-    throw e;
-})();
-(()=>{
-    const e = new Error('Cannot find module \'@next/font/local/target.css?{"path":"index.js","import":"","arguments":[{"src":"./my-font.woff2"}],"variableName":"myFont"}\'');
-    e.code = 'MODULE_NOT_FOUND';
-    throw e;
-})();
-"__TURBOPACK__ecmascript__hoisting__location__";
 ;
 ;
 
